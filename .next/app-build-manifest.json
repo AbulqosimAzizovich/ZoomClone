@@ -35,6 +35,11 @@
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
       "static/chunks/app/(root)/(home)/previous/page.js"
+    ],
+    "/(root)/meeting/[id]/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(root)/meeting/[id]/page.js"
     ]
   }
 }
