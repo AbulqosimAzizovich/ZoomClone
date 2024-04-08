@@ -1,0 +1,6 @@
+{
+  "/(root)/(home)/recordings/page": "app/(root)/(home)/recordings/page.js",
+  "/(root)/(home)/page": "app/(root)/(home)/page.js",
+  "/(root)/(home)/upcoming/page": "app/(root)/(home)/upcoming/page.js",
+  "/(root)/(home)/previous/page": "app/(root)/(home)/previous/page.js"
+}
